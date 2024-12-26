@@ -64,7 +64,7 @@ BepInEx is usually the mod loader used for Gorilla Tag.
   
 ---
 
-## **Step 4.5: Install Mods**
+## **Step 4: Install Mods**
 1. Place the downloaded `.dll` mod files into the `BepInEx/plugins` folder inside your Gorilla Tag directory.
    - Default Steam Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
    - Default Quest PC Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
