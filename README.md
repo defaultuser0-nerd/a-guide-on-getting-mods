@@ -78,7 +78,6 @@ BepInEx is usually the mod loader used for Gorilla Tag.
   
   ```plaintext
   HideGameManager = true
-  
 ---
 
 ## **Step 5: Launch Gorilla Tag with Mods**
