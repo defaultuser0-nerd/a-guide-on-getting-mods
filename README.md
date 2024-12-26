@@ -9,14 +9,23 @@
 2. Ensure that your PC meets the minimum requirements for running both the game and mods.
 
 **Minimum Specs (according to the steam description):**
+
 **OS:** Windows 10
+
 **Processor:** Intel Core i5-4590 / AMD FX 8350
+
 **Memory:** 4 GB RAM
+
 **Graphics:** NVIDIA GTX 970 / AMD Radeon R9 290
+
 **Network:** Broadband Internet connection
+
 **Storage:** 140 MB available space
+
 **Sound Card:** n/a
+
 **VR Support:** SteamVR or Oculus PC
+
 **Additional Notes:** This runs on a Quest, so it should probably run on any reasonable computer that can run Oculus or SteamVR at all that isn't literally a toaster
 
 ---
