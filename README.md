@@ -70,7 +70,7 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 
 ## **Step 5: Launch Gorilla Tag with Mods**
 1. Open Steam or Quest PC and launch Gorilla Tag.
-2. The mods should now be active. Check for mod menus or visual changes to confirm they’re working.
+2. The mods should now be active.
 3. **Important:** Only use mods in modded lobbies unless it doesn't give an advantage. Cheat menus are also not allowed **anywhere.** Even if it's a modded or private.
 
 ---
