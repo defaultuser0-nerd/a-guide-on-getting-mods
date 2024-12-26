@@ -57,6 +57,7 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 - [NoMoreWind](https://github.com/defaultuser0-nerd/NoMoreWind), by defaultuser0 - Removes wind
 - [Utilla](https://github.com/developer9998/Utilla), by Bobbie - Adds modded gamemodes - Fixed by Dev9998
 - [Newtilla](https://github.com/Loafiat/Newtilla), by Loafiat - Adds modded gamemodes - I recommend this more as its more robust
+- [Gsabers](https://github.com/LEPHROGFISH/Gsabers-Remastered), by LEPHROGFISH - Adds light sabers
 
 **Notes:** 
 - You can use Utilla and Newtilla together.
