@@ -60,10 +60,16 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 
 **Notes:** 
 - You can use Utilla and Newtilla together.
-- You need to set HideGameManager to true for Newtilla which is explained in the next step.
+- You need to set HideGameManager to true for Newtilla which is explained in step 4.5.
   
 ---
-## **Step 3.5: How to Set `HideGameManager` to True**
+
+## **Step 4.5: Install Mods**
+1. Place the downloaded `.dll` mod files into the `BepInEx/plugins` folder inside your Gorilla Tag directory.
+   - Default Steam Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
+   - Default Quest PC Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
+---
+## **Step 4.5: How to Set `HideGameManager` to True**
 - Go to the Gorilla Tag installation folder:  
   `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\config` or
   `C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag\BepInEx\config`
@@ -72,12 +78,7 @@ BepInEx is usually the mod loader used for Gorilla Tag.
   
   ```plaintext
   HideGameManager = true
----
-
-## **Step 4: Install Mods**
-1. Place the downloaded `.dll` mod files into the `BepInEx/plugins` folder inside your Gorilla Tag directory.
-   - Default Steam Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
-   - Default Quest PC Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
+  
 ---
 
 ## **Step 5: Launch Gorilla Tag with Mods**
