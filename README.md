@@ -70,7 +70,7 @@ BepInEx is usually the mod loader used for Gorilla Tag.
    - Default Quest PC Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
 ---
 ## **Step 4.5: How to Set `HideGameManager` to True**
-- Go to the Gorilla Tag installation folder:  
+- Go to the BepInEx Config folder:  
   `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\config` or
   
   `C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag\BepInEx\config`
