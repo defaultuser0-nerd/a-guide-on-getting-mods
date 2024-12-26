@@ -68,7 +68,8 @@ BepInEx is usually the mod loader used for Gorilla Tag.
   `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\config` or
   `C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag\BepInEx\config`
 - Open `BepInEx.cfg` using a text editor like Notepad.
-- Find `HideGameManager` or add it under `[Logging.Console]`, then set it to:  
+- Find `HideGameManager` or add it under `[Logging.Console]`, then set it to:
+  
   ```plaintext
   HideGameManager = true
 ---
