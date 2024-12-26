@@ -27,16 +27,18 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 1. Go to a trusted place for Gorilla Tag Mods. For example, [MonkeMod.](https://discord.gg/b2MhDBAzTv)
 
 **Recommended Mods**
-- [GorillaShirts](https://github.com/developer9998/GorillaShirts), by Dev9998 - adds custom shirts to the game
-- [GorillaWatch](https://github.com/developer-cody/GorillaWatch), by Cody - bundle of mods
-- [CustomCosmetics](https://github.com/defaultuser0-nerd/CustomCosmetics), by wryser - adds custom cosmetics to the game
-- [Grate](https://github.com/The-Graze/Grate), by Graze - fixed bark
-- [WhoIsTalking](https://github.com/The-Graze/WhoIsTalking), by Graze - name tag
-- [Index](https://github.com/zaynethedev/Index), by Zayne - mod toggler 
-- [BananaOS](https://github.com/HuskyGT/Banana-OS/tree/main), by Husky - recreation of the old quest mod
-- [NoMoreWind](https://github.com/defaultuser0-nerd/NoMoreWind), by defaultuser0 (aka me lol) - removes wind
-- [Utilla](https://github.com/developer9998/Utilla), by Bobbie - adds modded gamemodes - fixed by dev9998
-- [Newtilla](https://github.com/Loafiat/Newtilla), by Loafiat - adds modded gamemodes - i recommend this more as its more robust
+- [GorillaShirts](https://github.com/developer9998/GorillaShirts), by Dev9998 - Adds custom shirts to the game
+- [GorillaWatch](https://github.com/developer-cody/GorillaWatch), by Cody - Bundle of mods
+- [CustomCosmetics](https://github.com/defaultuser0-nerd/CustomCosmetics), by wryser - Adds custom cosmetics to the game
+- [Grate](https://github.com/The-Graze/Grate), by Graze - Fixed bark
+- [WhoIsTalking](https://github.com/The-Graze/WhoIsTalking), by Graze - Name tags
+- [Index](https://github.com/zaynethedev/Index), by Zayne - Mod toggler 
+- [BananaOS](https://github.com/HuskyGT/Banana-OS/tree/main), by Husky - Recreation of the old quest mod
+- [NoMoreWind](https://github.com/defaultuser0-nerd/NoMoreWind), by defaultuser0 - Removes wind
+- [Utilla](https://github.com/developer9998/Utilla), by Bobbie - Adds modded gamemodes - Fixed by Dev9998
+- [Newtilla](https://github.com/Loafiat/Newtilla), by Loafiat - Adds modded gamemodes - I recommend this more as its more robust
+
+**Notes:** You can use Utilla and Newtilla together.
 
 ---
 
