@@ -83,7 +83,7 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 - **Issue:** Game crashes on startup.  
   - Remove recently added mods from the `plugins` folder and try launching the game again.
 
-- **Tip:** **@Helpers** in [MonkeMod](https://discord.gg/b2MhDBAzTv) if you need help. Be sure to be kind to the helpers :)
+- **Tip:** Ping **@Helpers** in [MonkeMod](https://discord.gg/b2MhDBAzTv) if you need help. Be sure to be kind to the helpers :)
 
 ---
 
