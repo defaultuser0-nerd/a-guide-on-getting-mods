@@ -25,9 +25,18 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 
 ## **Step 3: Download Mods**
 1. Go to a trusted place for Gorilla Tag Mods. For example, [MonkeMod.](https://discord.gg/b2MhDBAzTv)
-2. Download the modding tool or individual mods you want.
-   - **Monkey Mod Manager** is recommended for beginners as it makes managing mods easy.
-3. Run the installer or tool and select the mods you want to install.
+
+** Personal mods that I recommend **
+- GorillaShirts, by Dev9998 - adds custom shirts to the game
+- GorillaWatch, by Cody - bundle of mods
+- CustomCosmetics, by wryser - adds custom cosmetics to the game
+- Grate, by Graze - fixed bark
+- WhoIsTalking, by Graze - name tag
+- Index, by Zayne - mod toggler 
+- BananaOS, by Husky - recreation of the old quest mod
+- NoMoreWind, by defaultuser0 (aka me lol) - removes wind
+- Utilla, by Bobbie - adds modded gamemodes - fixed by dev9998
+- Newtilla, by Loafiat - adds modded gamemodes - i recommend this more as its more robust
 
 ---
 
@@ -52,7 +61,7 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 - **Issue:** Game crashes on startup.  
   - Remove recently added mods from the `plugins` folder and try launching the game again.
 
-- **Tip:** @Helpers in [MonkeMod}(https://discord.gg/b2MhDBAzTv) if you need help. Be kind to the helpers too :)
+- **Tip:** **@Helpers** in [MonkeMod](https://discord.gg/b2MhDBAzTv) if you need help. Be sure to be kind to the helpers :)
 
 ---
 
