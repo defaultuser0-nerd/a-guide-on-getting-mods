@@ -58,8 +58,19 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 - [Utilla](https://github.com/developer9998/Utilla), by Bobbie - Adds modded gamemodes - Fixed by Dev9998
 - [Newtilla](https://github.com/Loafiat/Newtilla), by Loafiat - Adds modded gamemodes - I recommend this more as its more robust
 
-**Notes:** You can use Utilla and Newtilla together.
-
+**Notes:** 
+- You can use Utilla and Newtilla together.
+- You need to set HideGameManager to true for Newtilla which is explained in the next step.
+  
+---
+## **Step 3.5: How to Set `HideGameManager` to True**
+- Go to the Gorilla Tag installation folder:  
+  `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\config` or
+  `C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag\BepInEx\config`
+- Open `BepInEx.cfg` using a text editor like Notepad.
+- Find `HideGameManager` or add it under `[Logging.Console]`, then set it to:  
+  ```plaintext
+  HideGameManager = true
 ---
 
 ## **Step 4: Install Mods**
