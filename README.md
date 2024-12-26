@@ -37,7 +37,7 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 2. Download the **BepInEx x64** version for Windows.
    - It should be a `.zip` file.
 3. Extract the zip file to your Gorilla Tag installation folder:
-   - Default path for steam: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag`
+   - Default path for Steam: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag`
    - Default path for Quest PC: `C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag`
 4. After extraction, run Gorilla Tag once to generate the necessary BepInEx files.
 
@@ -64,14 +64,14 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 
 ## **Step 4: Install Mods**
 1. Place the downloaded `.dll` mod files into the `BepInEx/plugins` folder inside your Gorilla Tag directory.
-   - Steam Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
-   - Quest PC Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
+   - Default Steam Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
+   - Default Quest PC Path: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
 ---
 
 ## **Step 5: Launch Gorilla Tag with Mods**
 1. Open Steam or Quest PC and launch Gorilla Tag.
 2. The mods should now be active. Check for mod menus or visual changes to confirm they’re working.
-3. **Important:** Only use mods in modded lobbies unless it doesn't give an advantage. Cheat menus are also not allowed **anywhere.** Even if it's a modded.
+3. **Important:** Only use mods in modded lobbies unless it doesn't give an advantage. Cheat menus are also not allowed **anywhere.** Even if it's a modded or private.
 
 ---
 
