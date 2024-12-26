@@ -26,7 +26,7 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 ## **Step 3: Download Mods**
 1. Go to a trusted place for Gorilla Tag Mods. For example, [MonkeMod.](https://discord.gg/b2MhDBAzTv)
 
-** Personal mods that I recommend **
+**Recommended Mods**
 - GorillaShirts, by Dev9998 - adds custom shirts to the game
 - GorillaWatch, by Cody - bundle of mods
 - CustomCosmetics, by wryser - adds custom cosmetics to the game
