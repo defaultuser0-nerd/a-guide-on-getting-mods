@@ -52,7 +52,6 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 - [CustomCosmetics](https://github.com/defaultuser0-nerd/CustomCosmetics), by wryser - Adds custom cosmetics to the game
 - [Grate](https://github.com/The-Graze/Grate), by Graze - Fixed bark
 - [WhoIsTalking](https://github.com/The-Graze/WhoIsTalking), by Graze - Name tags
-- [Index](https://github.com/zaynethedev/Index), by Zayne - Mod toggler 
 - [BananaOS](https://github.com/HuskyGT/Banana-OS/tree/main), by Husky - Recreation of the old quest mod
 - [NoMoreWind](https://github.com/defaultuser0-nerd/NoMoreWind), by defaultuser0 - Removes wind
 - [Utilla](https://github.com/developer9998/Utilla), by Bobbie - Adds modded gamemodes - Fixed by Dev9998
