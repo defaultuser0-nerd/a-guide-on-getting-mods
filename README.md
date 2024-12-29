@@ -35,7 +35,6 @@ BepInEx is usually the mod loader used for Gorilla Tag.
 
 1. Go to the [BepInEx GitHub page](https://github.com/BepInEx/BepInEx/releases).
 2. Download `BepInEx_win_x64_5.4.23.2.zip`.
-   - It should be a `.zip` file.
 3. Extract the zip file to your Gorilla Tag installation folder:
    - Default path for Steam: `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag`
    - Default path for Quest PC: `C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag`
